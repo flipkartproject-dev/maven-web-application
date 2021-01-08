@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Devi Prasad Nexus Repository</name>
-	      <url>http://13.127.59.55:8081/repository/maven-snapshots/</url>
+	      <name>devi releases nexus repo</name>
+	      <url>http://13.127.59.55:8081/repository/devi-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Devi Prasad Snapshot Nexus Repository</name>
-	      <url>http://13.127.59.55:8081/repository/maven-snapshots/</url>
+	      <url>http://13.127.59.55:8081/repository/devi-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
